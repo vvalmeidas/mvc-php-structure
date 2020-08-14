@@ -1,2 +1,3 @@
 # MVC Structure for PHP
-Basic MVC Structure for PHP applications 
+Basic MVC Structure for PHP applications
+URL is defined as: host/[app_name]/[controller_name]/[func_name]/[args]/[moreargs]...
